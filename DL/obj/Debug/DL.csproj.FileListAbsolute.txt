@@ -1,0 +1,18 @@
+C:\Users\hp7\source\repos\WebApplicationMVC\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\hp7\source\repos\WebApplicationMVC\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\hp7\source\repos\WebApplicationMVC\DL\bin\Debug\DL.dll
+C:\Users\hp7\source\repos\WebApplicationMVC\DL\bin\Debug\DL.pdb
+C:\Users\hp7\source\repos\WebApplicationMVC\DL\bin\Debug\VO.dll
+C:\Users\hp7\source\repos\WebApplicationMVC\DL\bin\Debug\VO.pdb
+C:\Users\hp7\source\repos\WebApplicationMVC\DL\obj\Debug\DL.csproj.Up2Date
+C:\Users\hp7\source\repos\WebApplicationMVC\DL\obj\Debug\DL.dll
+C:\Users\hp7\source\repos\WebApplicationMVC\DL\obj\Debug\DL.pdb
+C:\Users\tsrad\source\repos\Student Record Handling\DL\bin\Debug\DL.dll
+C:\Users\tsrad\source\repos\Student Record Handling\DL\bin\Debug\DL.pdb
+C:\Users\tsrad\source\repos\Student Record Handling\DL\bin\Debug\VO.dll
+C:\Users\tsrad\source\repos\Student Record Handling\DL\bin\Debug\VO.pdb
+C:\Users\tsrad\source\repos\Student Record Handling\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\tsrad\source\repos\Student Record Handling\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\tsrad\source\repos\Student Record Handling\DL\obj\Debug\DL.csproj.Up2Date
+C:\Users\tsrad\source\repos\Student Record Handling\DL\obj\Debug\DL.dll
+C:\Users\tsrad\source\repos\Student Record Handling\DL\obj\Debug\DL.pdb

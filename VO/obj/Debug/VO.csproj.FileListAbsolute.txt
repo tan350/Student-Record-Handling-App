@@ -1,0 +1,12 @@
+C:\Users\hp7\source\repos\WebApplicationMVC\VO\bin\Debug\VO.dll
+C:\Users\hp7\source\repos\WebApplicationMVC\VO\bin\Debug\VO.pdb
+C:\Users\hp7\source\repos\WebApplicationMVC\VO\obj\Debug\VO.csproj.AssemblyReference.cache
+C:\Users\hp7\source\repos\WebApplicationMVC\VO\obj\Debug\VO.csproj.CoreCompileInputs.cache
+C:\Users\hp7\source\repos\WebApplicationMVC\VO\obj\Debug\VO.dll
+C:\Users\hp7\source\repos\WebApplicationMVC\VO\obj\Debug\VO.pdb
+C:\Users\tsrad\source\repos\Student Record Handling\VO\bin\Debug\VO.dll
+C:\Users\tsrad\source\repos\Student Record Handling\VO\bin\Debug\VO.pdb
+C:\Users\tsrad\source\repos\Student Record Handling\VO\obj\Debug\VO.csproj.AssemblyReference.cache
+C:\Users\tsrad\source\repos\Student Record Handling\VO\obj\Debug\VO.csproj.CoreCompileInputs.cache
+C:\Users\tsrad\source\repos\Student Record Handling\VO\obj\Debug\VO.dll
+C:\Users\tsrad\source\repos\Student Record Handling\VO\obj\Debug\VO.pdb
